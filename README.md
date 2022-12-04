@@ -4,8 +4,6 @@
 
 Continuação do projeto proposto pela +prati, nesse projeto busquei aprimorar a estante brincando com tons que sãos mais harmonicos entre si. 
 
-Desenvolvimento de ajutar os textos, bordas das imagens, fontes e tamanhos de letras.
-
 Desenvolvimento do link com os livros, no sumario. 
 
 
