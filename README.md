@@ -1,6 +1,6 @@
 # estante_livro_02
 
-####Versão melhorada da versão estantete livros 01.
+#### Versão melhorada da versão estantete livros 01.
 
 Continuação do projeto proposto pela +prati, nesse projeto busquei aprimorar a estante brincando com tons que sãos mais harmonicos entre si. 
 
